@@ -1,7 +1,11 @@
 # facebookBot
 
+![](https://blog.hartleybrody.com/wp-content/uploads/2016/06/facebook-chatbot.png)
+
 ## Intro
-A simple bot template that builds a vanilla Docker image for a NodeJS Facebook Messenger bot to run from on Google App Engine. It was originally from the quickstart template providded by [Messenger Platform docs](https://developers.facebook.com/docs/messenger-platform/guides/quick-start) on [Glitch](https://developers.facebook.com/docs/messenger-platform/guides/quick-start), but has since grown quite a bit. 
+A simple bot template that builds a vanilla Docker image for a NodeJS Facebook Messenger bot to run from on Google App Engine. 
+
+It was originally based on the excellent the quickstart template providded by [Messenger Platform docs](https://developers.facebook.com/docs/messenger-platform/guides/quick-start) on [Glitch](https://developers.facebook.com/docs/messenger-platform/guides/quick-start), but has since grown quite a bit. 
 
 ## Dependencies  
 
