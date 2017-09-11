@@ -7,5 +7,5 @@ var gcpAccount = require("../config/gcp");
 require('@google-cloud/debug-agent').start({
   allowExpressions: true,
   projectId: gcpAccount.project_id,
-  keyFilename: './bot_messenger/config/gcp.json'
+  keyFilename: ''
 });

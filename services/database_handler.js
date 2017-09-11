@@ -13,7 +13,7 @@ var serviceAccount = require("../config/firebase");
 // Intialize 
 firebaseAdmin.initializeApp({
   credential: firebaseAdmin.credential.cert(serviceAccount),
-  databaseURL: "https://feedbackio-ddb4e.firebaseio.com"
+  databaseURL: ""
 });
 
 // Real-time Database
